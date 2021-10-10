@@ -17,3 +17,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 Dependencies of the this software are under each of its own license. VQGAN & CLIP, and mfrashad/clipit, and dribnet/cliptit are under MIT license when it was originally included in this repository.
+
