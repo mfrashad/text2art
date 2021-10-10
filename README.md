@@ -52,7 +52,7 @@ You can start with the colab notebook to generate an art manually using code. If
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
